@@ -43,7 +43,7 @@
 **Instagram:** `@4masum4`
 
 ### Admin UIDs
-- **Main:** `100094007219565`  
+- **Main:** `61582048816143`  
 - **Alt 1:** `100086505613769`  
 - **Alt 2:** (Extra slot)
 
@@ -55,7 +55,7 @@
   <img src="https://i.postimg.cc/cCGS8KDj/In-Shot-20250802-030056724.jpg" alt="FB/IG Profile Pic" width="480">
 </p>
 
-- **Facebook:** <a href="https://www.facebook.com/4Masum4" target="_blank" rel="noopener noreferrer">facebook.com/4Masum4</a>  
+- **Facebook:** <a href="https://www.facebook.com/profile.php?id=61582048816143" target="_blank" rel="noopener noreferrer">facebook.com/4Masum4</a>  
 - **Instagram:** <a href="https://www.instagram.com/4masum4" target="_blank" rel="noopener noreferrer">instagram.com/4masum4</a>
 
 ---
